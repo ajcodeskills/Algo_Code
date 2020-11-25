@@ -1,5 +1,6 @@
 import java.util.*;
 import java.io.*;
+//Node class
 class Node
 {
     int data;
