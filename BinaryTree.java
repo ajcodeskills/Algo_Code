@@ -1,6 +1,10 @@
 import java.util.*;
 import java.io.*;
+<<<<<<< HEAD
 //Node class (new node creation)
+=======
+//Node class new node creation
+>>>>>>> 31109e89c092995cc0488a16ba5e9b4779fda4a6
 class Node
 {
     int data;
