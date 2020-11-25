@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-//Node class
+//Node class (new node creation)
 class Node
 {
     int data;
